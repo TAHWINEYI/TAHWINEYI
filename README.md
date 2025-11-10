@@ -1,6 +1,6 @@
-# Hi there, I'm <YOUR NAME> 👋  
+# Hi there, I'm Lisbon Tahwineyi 👋  
 
-I'm a <YOUR ROLE> at <YOUR COMPANY> using <YOUR PRIMARY LANGUAGE/STACK>.  
+I'm a Java Developer and a Product specialist at MastergrateIT using <YOUR PRIMARY LANGUAGE/STACK>.  
 All opinions are my own.  
 
 Over the past <X> years, I've been passionate about creating efficient, scalable, and maintainable software using technologies such as **<List your key languages or frameworks>**.  
