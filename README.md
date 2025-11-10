@@ -2,7 +2,7 @@
 
 I'm a Product specialist at MastergrateIT where I manage and train programming course such as Java, Python, T-SQL and Generative AI and related courses such Ms Power BI, Ms Power Automate. I'm a Java Developer using Spring Boot, Hibernate, Oracle PL/SQL, SQL, HTML5, CSS3 and Thymleaf. All opinions are my own.  
 
-Over the past 5+ years, I've been passionate about creating efficient, scalable, and maintainable software using technologies such as **Spring Boot, Hibernate, SQL, HTML5, CSS3 and Thymleaf**. I love designing clean architectures, mentoring developers, and exploring modern software design patterns.  
+Over the past 5+ years I worked at 2cana Solutions, a South African Insurtech giant with offices in Harare and Mauritius. I've been passionate about creating efficient, scalable, and maintainable software using technologies such as **Spring Boot, Hibernate, SQL, HTML5, CSS3 and Thymleaf**. I love designing clean architectures, mentoring developers, and exploring modern software design patterns.  
 
 I’m currently focused on:
 - 🚀 Building modern microservices applications using Spring Boot, PostgresSQL, Hibernate 
