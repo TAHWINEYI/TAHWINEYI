@@ -1,9 +1,9 @@
 # Hi there, I'm Lisbon Tahwineyi 👋  
 
-I'm a Java Developer and a Product specialist at MastergrateIT using <YOUR PRIMARY LANGUAGE/STACK>.  
+I'm a Java Developer and a Product specialist at MastergrateIT using Spring Boot, Hibernate, SQL, HTML5, CSS3 and Thymleaf.  
 All opinions are my own.  
 
-Over the past <X> years, I've been passionate about creating efficient, scalable, and maintainable software using technologies such as **<List your key languages or frameworks>**.  
+Over the past 5+ years, I've been passionate about creating efficient, scalable, and maintainable software using technologies such as **Spring Boot, Hibernate, SQL, HTML5, CSS3 and Thymleaf**.  
 I love designing clean architectures, mentoring developers, and exploring modern software design patterns.  
 
 I’m currently focused on:
