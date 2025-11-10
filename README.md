@@ -69,34 +69,6 @@ If you enjoy my open-source contributions, consider supporting me:
 
 ---
 
-## 🔥 Highlights
-
-- 🧑‍💻 Developer Program Member  
-- 🏆 <Any certifications or achievements>  
-- 💬 <Notable community contributions or speaking engagements>  
-
----
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=tokyonight)
-
----
-
-## 📈 Recent Contributions
-
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=<your-username>&theme=tokyo-night)
-
----
-
-## 📦 Pinned Projects
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=<your-username>&repo=<repo1>&theme=tokyonight)](https://github.com/<your-username>/<repo1>)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=<your-username>&repo=<repo2>&theme=tokyonight)](https://github.com/<your-username>/<repo2>)  
-
----
-
 ## 🪐 Fun Fact
 
 > “Code is like humor. When you have to explain it, it’s bad.” — Cory House  
