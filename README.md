@@ -55,9 +55,9 @@ Here are a few things I’ve been building and contributing to:
 
 ## 🌍 Connect with Me
 
-- 💼 LinkedIn: [<your-name>](<LinkedIn URL>)  
-- 🐦 Twitter/X: [@<your_handle>](<Twitter URL>)  
-- 📧 Email: <your.email@example.com>  
+- 💼 LinkedIn: linkedin.com/lisbontahwineyi93
+- 🐦 Twitter/X: @LisbonTahwineyi 
+- 📧 Email: lisbontahwineyi@gmail.com 
 - 🌐 Portfolio: [<your-portfolio>](<website link>)  
 
 ---
