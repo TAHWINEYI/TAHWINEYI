@@ -32,8 +32,8 @@ Here are a few things I’ve been building and contributing to:
 **Languages & Frameworks:**  
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/springboot.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/react/hibernate.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
 
 **Tools & Platforms:**  
