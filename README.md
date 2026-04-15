@@ -4,7 +4,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║               JAVA ENGINEER  ·  AI SPECIALIST     ║
+║               JAVA ENGINEER  · Aspring AI SPECIALIST     ║
 ║         Building enterprise systems that outlast trends.         ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
@@ -94,9 +94,8 @@ Beyond engineering, I'm a certified **NVIDIA AI instructor** who has trained cor
 
 | Certification | Code | Status |
 |---|---|---|
-| AI Infrastructure & Operations | `NCA-AIIO` | ✅ Certified |
-| Generative AI & LLMs for Developers | `NCA-GENL` | ✅ Certified |
-| Multimodal Generative AI | `NCA-GENM` | 🔄 Exam Pending |
+| Microsoft AI-300 | `MS AGENTIC AI` | ✅ Booked |
+| Microsoft AI 100 | 🔄 Exam Pending |
 
 ---
 
