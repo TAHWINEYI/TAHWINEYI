@@ -128,7 +128,7 @@ Beyond engineering, I'm a certified **NVIDIA AI instructor** who has trained cor
 ## What I'm Working On
 
 - 🔭 Building production-grade **Agentic AI workflows** integrating Azure AI Services
-- 🌱 Preparing for **NVIDIA NCA-GENM** (Multimodal Generative AI) certification  
+- 🌱 Preparing for **Microsoft AI-300 and AI 100** (Multimodal Generative AI) certification  
 - 📝 Developing AI training curricula for South African enterprise developers
 - 🚀 Exploring **Modulithic architecture** patterns for Java monolith migrations
 
@@ -136,12 +136,12 @@ Beyond engineering, I'm a certified **NVIDIA AI instructor** who has trained cor
 
 ## Let's Build Something
 
-I'm open to **Java engineering roles**, **AI consultancy** opportunities across Africa and globally.
+I'm open to **Java engineering roles**, **AI workflow automation consultancy** opportunities across Africa and globally.
 
 📧 [lisbontahwineyi@gmail.com](mailto:lisbontahwineyi@gmail.com)  
 📞 +27 81 791 4054  
 🌍 Cape Town, South Africa  
-🔗 [Portfolio](https://lisbontahwineyi.vercel.app) · [LinkedIn](https://linkedin.com/in/lisbon-tahwineyi)
+🔗 [Portfolio](https://lisbontahwineyi.netlify.app/) · [LinkedIn](https://linkedin.com/in/lisbon-tahwineyi)
 
 ---
 
