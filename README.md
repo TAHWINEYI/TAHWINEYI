@@ -9,7 +9,7 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-lisbontahwineyi.vercel.app-F5E642?style=flat-square&labelColor=0A0A0A)](https://lisbontahwineyi.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-lisbontahwineyi.vercel.app-F5E642?style=flat-square&labelColor=0A0A0A)](https://lisbontahwineyi.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-lisbontahwineyi@gmail.com-F5E642?style=flat-square&labelColor=0A0A0A)](mailto:lisbontahwineyi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lisbon_Tahwineyi-F5E642?style=flat-square&labelColor=0A0A0A)](https://linkedin.com/in/lisbon-tahwineyi)
 [![Location](https://img.shields.io/badge/Location-Cape_Town,_South_Africa-F5E642?style=flat-square&labelColor=0A0A0A)](#)
